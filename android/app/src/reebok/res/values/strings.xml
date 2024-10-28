@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Reebok</string>
+    <string name="url_scheme" translatable="false">reebok</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyA1-SAbowjghjE6rIp0wGh7B8-CHlYWqiM</string>
+
+    <string name="CodePushDeploymentKeyDevelopment" moduleConfig="true">XfA383QgNySMDm0jmp3tguncVzFR4ksvOXqog</string>
+    <string name="CodePushDeploymentKeyStaging" moduleConfig="true">HqcAhL8ccrLfB1alDBDlnT72JYBi4ksvOXqog</string>
+    <string name="CodePushDeploymentKeyProduction" moduleConfig="true">GWAbv651G9x6vmTJPTzejqwJTRYr4ksvOXqog</string>
+
+    <string name="clevertap_region" moduleConfig="true">in</string>
+    <string name="clevertap_account_id_test" moduleConfig="true">TEST-7Z4-448-486Z</string>
+    <string name="clevertap_token_test" moduleConfig="true">TEST-b44-41a</string>
+    <string name="clevertap_account_id_prod" moduleConfig="true">6Z4-448-486Z</string>
+    <string name="clevertap_token_prod" moduleConfig="true">b44-416</string>
+
+    <!-- need to change prod details -->
+</resources>

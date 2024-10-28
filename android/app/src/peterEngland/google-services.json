@@ -1,0 +1,414 @@
+{
+  "project_info": {
+    "project_number": "221845346427",
+    "project_id": "peterengland-app",
+    "storage_bucket": "peterengland-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221845346427:android:cc1f5d89a67462b4e9eade",
+        "android_client_info": {
+          "package_name": "com.peterengland.abfrl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221845346427-2iatc06sqcr268cfpgrltdo7mh4b1jvk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.peterengland.abfrl",
+            "certificate_hash": "ab36830361b24ece88aa3c96ef65f3d91fc0bce3"
+          }
+        },
+        {
+          "client_id": "221845346427-6u44oikm0cd6tiaqh4aendgsll561k1e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.peterengland.abfrl",
+            "certificate_hash": "c30805b166a51a23e1d637a20b05e875d86fa99b"
+          }
+        },
+        {
+          "client_id": "221845346427-a5vv9j3kcqpe9d3i92s5hsg2tnkoltjr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.peterengland.abfrl",
+            "certificate_hash": "dce60fc91a0216b5be4e75ea9218a8f142d70991"
+          }
+        },
+        {
+          "client_id": "221845346427-a71j1pph9tisk3ff8trau1vcvpe91fgn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.peterengland.abfrl",
+            "certificate_hash": "03c08ed7abf025c3066d6030ff998a51c78286f6"
+          }
+        },
+        {
+          "client_id": "221845346427-ke2jv8p1imcebivgu5eqbu7s5u1m8pf3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.peterengland.abfrl",
+            "certificate_hash": "9c865ea4cca17e92776385a09ff4b0637f57b0b6"
+          }
+        },
+        {
+          "client_id": "221845346427-meiqem718e9hluhisaqul4tuoqqhigug.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.peterengland.abfrl",
+            "certificate_hash": "2c6261015a0e2bf1bdebdbc834c3b244b9a5f1a4"
+          }
+        },
+        {
+          "client_id": "221845346427-spnqn5vjq32dl8kn34rrusjp31619rf9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.peterengland.abfrl",
+            "certificate_hash": "f252cc446c0acdf8539eca8d372c6989e0e9d1c2"
+          }
+        },
+        {
+          "client_id": "221845346427-va9sdq6mdpingljusu7ec0vll2b0fi4m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.peterengland.abfrl",
+            "certificate_hash": "090bb5ec6a9c5b3c7627c3a7dae25ab1f608d96c"
+          }
+        },
+        {
+          "client_id": "221845346427-kmulsrn87b6j53c6e37lp5thnc66hdd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRbEJDpSiaxwIo1shrTAUYqwWHwilRjLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221845346427-kmulsrn87b6j53c6e37lp5thnc66hdd1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "221845346427-c2q0tvft4lpn37akoei9nea1purfur2c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.peterengland.abfrl.sit"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221845346427:android:e44e40f3648ed697e9eade",
+        "android_client_info": {
+          "package_name": "com.peterengland.abfrl.beta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221845346427-48hnjvihapftt0id5p5q6kito8g5pba0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.peterengland.abfrl.beta",
+            "certificate_hash": "9c865ea4cca17e92776385a09ff4b0637f57b0b6"
+          }
+        },
+        {
+          "client_id": "221845346427-8qs9ku71q1c7id1o7573r2n10jen4pgf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.peterengland.abfrl.beta",
+            "certificate_hash": "2c6261015a0e2bf1bdebdbc834c3b244b9a5f1a4"
+          }
+        },
+        {
+          "client_id": "221845346427-9p4i35qkesv28b1pjs29dqj4t7r6umv8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.peterengland.abfrl.beta",
+            "certificate_hash": "c30805b166a51a23e1d637a20b05e875d86fa99b"
+          }
+        },
+        {
+          "client_id": "221845346427-kefcflkq6e3o2a3hf9etqevi8u1u6tev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.peterengland.abfrl.beta",
+            "certificate_hash": "f252cc446c0acdf8539eca8d372c6989e0e9d1c2"
+          }
+        },
+        {
+          "client_id": "221845346427-noesmgch6coc2f7koalc7mlga124mkp7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.peterengland.abfrl.beta",
+            "certificate_hash": "03c08ed7abf025c3066d6030ff998a51c78286f6"
+          }
+        },
+        {
+          "client_id": "221845346427-r5961plmpu8ul8838hsq6haujcc6s6ul.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.peterengland.abfrl.beta",
+            "certificate_hash": "090bb5ec6a9c5b3c7627c3a7dae25ab1f608d96c"
+          }
+        },
+        {
+          "client_id": "221845346427-ten7l7imh6m9kh7l2k85fn5d67dfr7d5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.peterengland.abfrl.beta",
+            "certificate_hash": "dce60fc91a0216b5be4e75ea9218a8f142d70991"
+          }
+        },
+        {
+          "client_id": "221845346427-ubq5dv430s2cknkf1ucugc0jlo82qg0d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.peterengland.abfrl.beta",
+            "certificate_hash": "ab36830361b24ece88aa3c96ef65f3d91fc0bce3"
+          }
+        },
+        {
+          "client_id": "221845346427-kmulsrn87b6j53c6e37lp5thnc66hdd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRbEJDpSiaxwIo1shrTAUYqwWHwilRjLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221845346427-kmulsrn87b6j53c6e37lp5thnc66hdd1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "221845346427-c2q0tvft4lpn37akoei9nea1purfur2c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.peterengland.abfrl.sit"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221845346427:android:c51e0da6b9579a7ee9eade",
+        "android_client_info": {
+          "package_name": "com.peterengland.abfrl.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221845346427-071fkcv15v0ujargcsnb2qt550goudo9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.peterengland.abfrl.dev",
+            "certificate_hash": "2c6261015a0e2bf1bdebdbc834c3b244b9a5f1a4"
+          }
+        },
+        {
+          "client_id": "221845346427-3pg5o76je4b9bjrerer4ud7pr6v8f5g8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.peterengland.abfrl.dev",
+            "certificate_hash": "9c865ea4cca17e92776385a09ff4b0637f57b0b6"
+          }
+        },
+        {
+          "client_id": "221845346427-5jo2tiruhkto2rqs10vlko631d4fjkp6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.peterengland.abfrl.dev",
+            "certificate_hash": "dce60fc91a0216b5be4e75ea9218a8f142d70991"
+          }
+        },
+        {
+          "client_id": "221845346427-cl82op5se9ib06d23vkpimojm0rrhih2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.peterengland.abfrl.dev",
+            "certificate_hash": "ab36830361b24ece88aa3c96ef65f3d91fc0bce3"
+          }
+        },
+        {
+          "client_id": "221845346427-hifjh2vbrgekg3mok6gnmc58sq0m0efo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.peterengland.abfrl.dev",
+            "certificate_hash": "03c08ed7abf025c3066d6030ff998a51c78286f6"
+          }
+        },
+        {
+          "client_id": "221845346427-p4461tqmgglh5ul6c9o0cq2f9lhnh0bk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.peterengland.abfrl.dev",
+            "certificate_hash": "090bb5ec6a9c5b3c7627c3a7dae25ab1f608d96c"
+          }
+        },
+        {
+          "client_id": "221845346427-kmulsrn87b6j53c6e37lp5thnc66hdd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRbEJDpSiaxwIo1shrTAUYqwWHwilRjLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221845346427-kmulsrn87b6j53c6e37lp5thnc66hdd1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "221845346427-c2q0tvft4lpn37akoei9nea1purfur2c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.peterengland.abfrl.sit"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221845346427:android:54789b7cbcf64dcae9eade",
+        "android_client_info": {
+          "package_name": "com.peterengland.abfrl.preprod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221845346427-b2mi89ha4vuoou3k8cvfgihk2cs35997.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.peterengland.abfrl.preprod",
+            "certificate_hash": "ab36830361b24ece88aa3c96ef65f3d91fc0bce3"
+          }
+        },
+        {
+          "client_id": "221845346427-f7hssmd5keursv7m6jsu01b9i920l1b0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.peterengland.abfrl.preprod",
+            "certificate_hash": "03c08ed7abf025c3066d6030ff998a51c78286f6"
+          }
+        },
+        {
+          "client_id": "221845346427-iselsas7ot3iivrn94944m4bkp9vp4tc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.peterengland.abfrl.preprod",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "221845346427-mi0frq32b1t91vtmfg8nqli6jpf50r0q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.peterengland.abfrl.preprod",
+            "certificate_hash": "45ec606e4141bf7cea1c4ce82c8382a824ce9c04"
+          }
+        },
+        {
+          "client_id": "221845346427-kmulsrn87b6j53c6e37lp5thnc66hdd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRbEJDpSiaxwIo1shrTAUYqwWHwilRjLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221845346427-kmulsrn87b6j53c6e37lp5thnc66hdd1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "221845346427-c2q0tvft4lpn37akoei9nea1purfur2c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.peterengland.abfrl.sit"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221845346427:android:c8c0bbee48228e3ae9eade",
+        "android_client_info": {
+          "package_name": "com.peterengland.abfrl.sit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221845346427-hjo9a7slkjg81glljvb15musu90v9mat.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.peterengland.abfrl.sit",
+            "certificate_hash": "ab36830361b24ece88aa3c96ef65f3d91fc0bce3"
+          }
+        },
+        {
+          "client_id": "221845346427-ovr9lssee0he45v6uk966fif9aldr6q4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.peterengland.abfrl.sit",
+            "certificate_hash": "03c08ed7abf025c3066d6030ff998a51c78286f6"
+          }
+        },
+        {
+          "client_id": "221845346427-kmulsrn87b6j53c6e37lp5thnc66hdd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRbEJDpSiaxwIo1shrTAUYqwWHwilRjLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221845346427-kmulsrn87b6j53c6e37lp5thnc66hdd1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "221845346427-c2q0tvft4lpn37akoei9nea1purfur2c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.peterengland.abfrl.sit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1 "
+}

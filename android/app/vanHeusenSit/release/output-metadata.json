@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.vanheusenindia.abfrl.sit",
+  "variantName": "vanHeusenSitRelease",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 170,
+      "versionName": "3.25.1",
+      "outputFile": "app-vanHeusen-sit-release.apk"
+    }
+  ],
+  "elementType": "File"
+}

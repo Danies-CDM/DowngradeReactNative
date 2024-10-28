@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.forever21.abfrl.preprod",
+  "variantName": "forever21UatRelease",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 164,
+      "versionName": "3.23",
+      "outputFile": "app-forever21-uat-release.apk"
+    }
+  ],
+  "elementType": "File"
+}

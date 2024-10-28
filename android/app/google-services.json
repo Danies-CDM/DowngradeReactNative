@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "290510378788",
+    "project_id": "born-starter-kit",
+    "storage_bucket": "born-starter-kit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290510378788:android:b55ec429afd2410667c5b1",
+        "android_client_info": {
+          "package_name": "com.mflsuperapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290510378788-ma48j345e2jh04k67pmpvfr7hr3hp81u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mflsuperapp",
+            "certificate_hash": "5305b0c3d67de9f41ba26a50f4c96879c42c2086"
+          }
+        },
+        {
+          "client_id": "290510378788-nc3ph8r70pbqmshob3sj82iieo7o56b8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mflsuperapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "290510378788-dmmferahf5s4ugcl4ajpf8dg292h58k4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDutk9nrXa_YlFNz9S7vM8DiSlGHS2qcCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290510378788-dmmferahf5s4ugcl4ajpf8dg292h58k4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "290510378788-vsu9ke93dhps1422ikfpfj2vl7ag1uc0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.mflsuperapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

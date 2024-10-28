@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Louis Philippe</string>
+    <string name="url_scheme" translatable="false">louisphilippe</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyC44td9UHJ_B__3MInudqaRh6d7-Ykp5co</string>
+
+    <string name="CodePushDeploymentKeyDevelopment" moduleConfig="true">BXgeMro3PhlqSvdviaaJnKwhjFhr4ksvOXqog</string>
+    <string name="CodePushDeploymentKeyStaging" moduleConfig="true">wwyVKXAi8IiXlCpAAYexhwLE7NKE4ksvOXqog</string>
+    <string name="CodePushDeploymentKeyProduction" moduleConfig="true">nxv3ZFPbUHl5GFvthtf67PTmmT174ksvOXqog</string>
+
+    <string name="clevertap_region" moduleConfig="true">in</string>
+    <string name="clevertap_account_id_test" moduleConfig="true">TEST-ZWR-57W-K66Z</string>
+    <string name="clevertap_token_test" moduleConfig="true">TEST-0a5-201</string>
+    <string name="clevertap_account_id_prod" moduleConfig="true">WWR-57W-K66Z</string>
+    <string name="clevertap_token_prod" moduleConfig="true">0a5-200</string>
+</resources>

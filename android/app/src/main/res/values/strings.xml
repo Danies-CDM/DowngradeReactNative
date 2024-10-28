@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ABFRL Super App</string>
+    <string name="default_notification_channel_id">abfrl-channel</string>
+    <string name="facebook_app_id">458784999365779</string>
+    <string name="facebook_client_token">56789</string>
+    <string name="google_maps_key_common" templateMergeStrategy="preserve" translatable="false">AIzaSyDRbEJDpSiaxwIo1shrTAUYqwWHwilRjLA</string>
+
+    <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true" translatable="false">DO_NOT_ASK_JAVASCRIPT</string>
+    <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
+    <string name="CodePushServerUrl" moduleConfig="true">https://otaapi.trendin.com/</string>
+
+    <string name="adobe_key_prod" moduleConfig="true">a3d08833fce3/84c5db111d73/launch-df67c752db8f</string>
+    <string name="adobe_key_dev" moduleConfig="true">a3d08833fce3/84c5db111d73/launch-7e0f42bed31e-development</string>
+
+</resources>

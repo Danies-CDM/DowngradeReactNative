@@ -1,0 +1,222 @@
+{
+  "project_info": {
+    "project_number": "462292404444",
+    "project_id": "sa-rb-396910",
+    "storage_bucket": "sa-rb-396910.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462292404444:android:5e0f1a4ba8970ef4a48c19",
+        "android_client_info": {
+          "package_name": "com.reebok.abfrl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462292404444-djfaqtlko08ment2ermdj1cct2bn5q70.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reebok.abfrl",
+            "certificate_hash": "16eef5c8f3c5c6d9a563ad780527159a7338d8b8"
+          }
+        },
+        {
+          "client_id": "462292404444-ggjig58d3phnkvvns08tnpo692tiu3ud.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reebok.abfrl",
+            "certificate_hash": "d27cf02d8772957438eccdcd53eb07332f5d55b3"
+          }
+        },
+        {
+          "client_id": "462292404444-pvk9oo65glq9m9ng1mn3rcfj37melt7a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reebok.abfrl",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "462292404444-adof0fn0irocjltrjio08cbif77f1uc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-n-xVKK12YRj8bqMttzTiGTLbWspaU9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462292404444-adof0fn0irocjltrjio08cbif77f1uc6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "462292404444-e0ci9jfuio92g0n40qbtgo6s87leqpdl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.reebok.abfrl"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462292404444:android:38706b13f0e16606a48c19",
+        "android_client_info": {
+          "package_name": "com.reebok.abfrl.beta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462292404444-adof0fn0irocjltrjio08cbif77f1uc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-n-xVKK12YRj8bqMttzTiGTLbWspaU9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462292404444-adof0fn0irocjltrjio08cbif77f1uc6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "462292404444-e0ci9jfuio92g0n40qbtgo6s87leqpdl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.reebok.abfrl"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462292404444:android:6f4a74c94468c96fa48c19",
+        "android_client_info": {
+          "package_name": "com.reebok.abfrl.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462292404444-adof0fn0irocjltrjio08cbif77f1uc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-n-xVKK12YRj8bqMttzTiGTLbWspaU9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462292404444-adof0fn0irocjltrjio08cbif77f1uc6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "462292404444-e0ci9jfuio92g0n40qbtgo6s87leqpdl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.reebok.abfrl"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462292404444:android:56382f573c6c7e29a48c19",
+        "android_client_info": {
+          "package_name": "com.reebok.abfrl.preprod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462292404444-vp1da6c7kbqq6d3ocpi6tc6c96blj8iv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reebok.abfrl.preprod",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "462292404444-adof0fn0irocjltrjio08cbif77f1uc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-n-xVKK12YRj8bqMttzTiGTLbWspaU9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462292404444-adof0fn0irocjltrjio08cbif77f1uc6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "462292404444-e0ci9jfuio92g0n40qbtgo6s87leqpdl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.reebok.abfrl"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462292404444:android:afcf5347865f9b4aa48c19",
+        "android_client_info": {
+          "package_name": "com.reebok.abfrl.sit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462292404444-adof0fn0irocjltrjio08cbif77f1uc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-n-xVKK12YRj8bqMttzTiGTLbWspaU9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462292404444-adof0fn0irocjltrjio08cbif77f1uc6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "462292404444-e0ci9jfuio92g0n40qbtgo6s87leqpdl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.reebok.abfrl"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1 "
+}

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">American Eagle</string>
+    <string name="url_scheme" translatable="false">aeo</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyA1-SAbowjghjE6rIp0wGh7B8-CHlYWqiM</string>
+
+    <string name="CodePushDeploymentKeyDevelopment" moduleConfig="true">JPWTUigXe07KRXmmt96VKq4qREVI4ksvOXqog</string>
+    <string name="CodePushDeploymentKeyStaging" moduleConfig="true">l2CyxUdhuVGEQqkU36NKxc2WMFvx4ksvOXqog</string>
+    <string name="CodePushDeploymentKeyProduction" moduleConfig="true">QGTTN7MszYmowQyB8RYz7P20Y7M24ksvOXqog</string>
+
+    <string name="clevertap_region" moduleConfig="true">in</string>
+    <string name="clevertap_account_id_test" moduleConfig="true">TEST-98R-448-486Z</string>
+    <string name="clevertap_token_test" moduleConfig="true">TEST-b44-2bc</string>
+    <string name="clevertap_account_id_prod" moduleConfig="true">88R-448-486Z</string>
+    <string name="clevertap_token_prod" moduleConfig="true">b44-2bb</string>
+
+    <!-- need to change prod details -->
+</resources>

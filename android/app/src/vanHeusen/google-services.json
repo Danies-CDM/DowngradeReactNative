@@ -1,0 +1,343 @@
+{
+  "project_info": {
+    "project_number": "637882501465",
+    "firebase_url": "https://vanheusen-app.firebaseio.com",
+    "project_id": "vanheusen-app",
+    "storage_bucket": "vanheusen-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637882501465:android:d3b847c0cc203f2e3ce448",
+        "android_client_info": {
+          "package_name": "com.vanheusenindia.abfrl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637882501465-0acf3e4m8959em7oo5atj0d9dsrpcpo2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vanheusenindia.abfrl",
+            "certificate_hash": "b7723cf0677819f41a1c874bc035ac7086a9924a"
+          }
+        },
+        {
+          "client_id": "637882501465-6a718mfet22gf1mncl8ndqua2dcds77t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vanheusenindia.abfrl",
+            "certificate_hash": "a84cdd69f15c0ac05e3dee1185570713f6fb6f52"
+          }
+        },
+        {
+          "client_id": "637882501465-97uqqua9506pde10vku7ns24cl4qb5q8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vanheusenindia.abfrl",
+            "certificate_hash": "ed92c26c9bd9b693cbbc364e3a9c72bd55cb2db9"
+          }
+        },
+        {
+          "client_id": "637882501465-bce6qs62lashn32vtb9j30n7acvfveds.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vanheusenindia.abfrl",
+            "certificate_hash": "9c865ea4cca17e92776385a09ff4b0637f57b0b6"
+          }
+        },
+        {
+          "client_id": "637882501465-e43ll801gqeolrk3g8ctj10pfh3le41v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vanheusenindia.abfrl",
+            "certificate_hash": "ab36830361b24ece88aa3c96ef65f3d91fc0bce3"
+          }
+        },
+        {
+          "client_id": "637882501465-hn1bkrs8rfhh5n4mmk66mc6qmir84ebp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vanheusenindia.abfrl",
+            "certificate_hash": "aff7bc7b2cd3067b1f8d74ac2b6dcba69b795af8"
+          }
+        },
+        {
+          "client_id": "637882501465-hs57hnd43dphepfl47fn9u2b0e0gmdhh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1-SAbowjghjE6rIp0wGh7B8-CHlYWqiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637882501465-614pncmp3llk71lvt2cnni92fltvj7t4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "637882501465-1uofrefhq5ap69gt9qpp191drbkskj5l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vanheusenindia.abfrl.dec"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637882501465:android:a33188e86e0c13593ce448",
+        "android_client_info": {
+          "package_name": "com.vanheusenindia.abfrl.beta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637882501465-56457e15d88d2tooiumf8i58la8r9cjr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vanheusenindia.abfrl.beta",
+            "certificate_hash": "ab36830361b24ece88aa3c96ef65f3d91fc0bce3"
+          }
+        },
+        {
+          "client_id": "637882501465-b2gsdeqscl7ohqk80rd0s58m42rqcmmu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vanheusenindia.abfrl.beta",
+            "certificate_hash": "b7723cf0677819f41a1c874bc035ac7086a9924a"
+          }
+        },
+        {
+          "client_id": "637882501465-dik1db220q3psqtmcft30kqjhil9uopu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vanheusenindia.abfrl.beta",
+            "certificate_hash": "aff7bc7b2cd3067b1f8d74ac2b6dcba69b795af8"
+          }
+        },
+        {
+          "client_id": "637882501465-p4og3voas0nv9762j8n498qerc9193qj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vanheusenindia.abfrl.beta",
+            "certificate_hash": "eb5f098f132bce0ed94153454166d086b65e8f35"
+          }
+        },
+        {
+          "client_id": "637882501465-tm6pl9enndvg7gjsui1rlj6mv9fa06in.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vanheusenindia.abfrl.beta",
+            "certificate_hash": "9c865ea4cca17e92776385a09ff4b0637f57b0b6"
+          }
+        },
+        {
+          "client_id": "637882501465-hs57hnd43dphepfl47fn9u2b0e0gmdhh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1-SAbowjghjE6rIp0wGh7B8-CHlYWqiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637882501465-614pncmp3llk71lvt2cnni92fltvj7t4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "637882501465-1uofrefhq5ap69gt9qpp191drbkskj5l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vanheusenindia.abfrl.dec"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637882501465:android:648cdf06cbc5a6ca3ce448",
+        "android_client_info": {
+          "package_name": "com.vanheusenindia.abfrl.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637882501465-7big19946vnrjovhtqs8fuccua2nj7eg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vanheusenindia.abfrl.dev",
+            "certificate_hash": "b7723cf0677819f41a1c874bc035ac7086a9924a"
+          }
+        },
+        {
+          "client_id": "637882501465-sg9qdoim0vr2mksc07eaclnhgfsfrslt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vanheusenindia.abfrl.dev",
+            "certificate_hash": "9c865ea4cca17e92776385a09ff4b0637f57b0b6"
+          }
+        },
+        {
+          "client_id": "637882501465-t1a2cauj592krntuaibc1iehnn716k1k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vanheusenindia.abfrl.dev",
+            "certificate_hash": "ab36830361b24ece88aa3c96ef65f3d91fc0bce3"
+          }
+        },
+        {
+          "client_id": "637882501465-hs57hnd43dphepfl47fn9u2b0e0gmdhh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1-SAbowjghjE6rIp0wGh7B8-CHlYWqiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637882501465-614pncmp3llk71lvt2cnni92fltvj7t4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "637882501465-1uofrefhq5ap69gt9qpp191drbkskj5l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vanheusenindia.abfrl.dec"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637882501465:android:8ee87ed72d46258b3ce448",
+        "android_client_info": {
+          "package_name": "com.vanheusenindia.abfrl.preprod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637882501465-h7lacbsfvocve5vg9fggcm98gf4s0kih.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vanheusenindia.abfrl.preprod",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "637882501465-jd5o2i83hk87pptr499keh44kfqe2m22.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vanheusenindia.abfrl.preprod",
+            "certificate_hash": "9c865ea4cca17e92776385a09ff4b0637f57b0b6"
+          }
+        },
+        {
+          "client_id": "637882501465-ovqlsa5jsegcup2e021m84gpomo4h1la.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vanheusenindia.abfrl.preprod",
+            "certificate_hash": "ab36830361b24ece88aa3c96ef65f3d91fc0bce3"
+          }
+        },
+        {
+          "client_id": "637882501465-hs57hnd43dphepfl47fn9u2b0e0gmdhh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1-SAbowjghjE6rIp0wGh7B8-CHlYWqiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637882501465-614pncmp3llk71lvt2cnni92fltvj7t4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "637882501465-1uofrefhq5ap69gt9qpp191drbkskj5l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vanheusenindia.abfrl.dec"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637882501465:android:915b1a826e44e8dc3ce448",
+        "android_client_info": {
+          "package_name": "com.vanheusenindia.abfrl.sit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637882501465-25vdgin7eujtr1m7ns0nnsmsumqmmn1a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vanheusenindia.abfrl.sit",
+            "certificate_hash": "ab36830361b24ece88aa3c96ef65f3d91fc0bce3"
+          }
+        },
+        {
+          "client_id": "637882501465-b1mehhb0453bj8bah4johm197b9e4mmn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vanheusenindia.abfrl.sit",
+            "certificate_hash": "9c865ea4cca17e92776385a09ff4b0637f57b0b6"
+          }
+        },
+        {
+          "client_id": "637882501465-hs57hnd43dphepfl47fn9u2b0e0gmdhh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1-SAbowjghjE6rIp0wGh7B8-CHlYWqiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637882501465-614pncmp3llk71lvt2cnni92fltvj7t4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "637882501465-1uofrefhq5ap69gt9qpp191drbkskj5l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vanheusenindia.abfrl.dec"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1 "
+}

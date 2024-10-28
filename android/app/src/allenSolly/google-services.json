@@ -1,0 +1,275 @@
+{
+  "project_info": {
+    "project_number": "334758917957",
+    "firebase_url": "https://allensolly-1317.firebaseio.com",
+    "project_id": "allensolly-1317",
+    "storage_bucket": "allensolly-1317.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334758917957:android:29fbce74c5c1a70805b02c",
+        "android_client_info": {
+          "package_name": "com.allensolly.abfrl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334758917957-0tqhbg5a2ir070alnlosojhlta3de8d6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.allensolly.abfrl",
+            "certificate_hash": "ab36830361b24ece88aa3c96ef65f3d91fc0bce3"
+          }
+        },
+        {
+          "client_id": "334758917957-5hj538jvtamehmhfbj27duo5l9286a19.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.allensolly.abfrl",
+            "certificate_hash": "a27f490a49cf29fe249321b09fd3903992e66b23"
+          }
+        },
+        {
+          "client_id": "334758917957-m1g0t49875b6ntn9mk2ul4h8mdnv6tra.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.allensolly.abfrl",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "334758917957-tvu503tqhk7pe8ngm5bp9usll5ion20m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.allensolly.abfrl",
+            "certificate_hash": "45ec606e4141bf7cea1c4ce82c8382a824ce9c04"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA74X65DXgTJF2hroMwTQjVajYOOufw8JA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334758917957-e6b386008b8c876npu2kl00cqqhr9mma.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "334758917957-6dcr40n6iv89kjqurjivetf7lkk3b281.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.allensolly.abfrl"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334758917957:android:22683925ba3e6a0305b02c",
+        "android_client_info": {
+          "package_name": "com.allensolly.abfrl.beta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334758917957-778r2pfjiob96kqbnut8ctquav77hm75.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.allensolly.abfrl.beta",
+            "certificate_hash": "ab36830361b24ece88aa3c96ef65f3d91fc0bce3"
+          }
+        },
+        {
+          "client_id": "334758917957-ju367sbmlft5r30nruqav5nagso0be3r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.allensolly.abfrl.beta",
+            "certificate_hash": "45ec606e4141bf7cea1c4ce82c8382a824ce9c04"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA74X65DXgTJF2hroMwTQjVajYOOufw8JA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334758917957-e6b386008b8c876npu2kl00cqqhr9mma.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "334758917957-6dcr40n6iv89kjqurjivetf7lkk3b281.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.allensolly.abfrl"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334758917957:android:07384cbc78d76bdd05b02c",
+        "android_client_info": {
+          "package_name": "com.allensolly.abfrl.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334758917957-9qlkfcif35evtfo8jaon5d0irp0ljue7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.allensolly.abfrl.dev",
+            "certificate_hash": "ab36830361b24ece88aa3c96ef65f3d91fc0bce3"
+          }
+        },
+        {
+          "client_id": "334758917957-nu7fl9o5p3pqevotfsfqd5b0kdiv74ai.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.allensolly.abfrl.dev",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "334758917957-vv9148uol6jr2ug5qi5jtg39kc9sfmhh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.allensolly.abfrl.dev",
+            "certificate_hash": "45ec606e4141bf7cea1c4ce82c8382a824ce9c04"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA74X65DXgTJF2hroMwTQjVajYOOufw8JA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334758917957-e6b386008b8c876npu2kl00cqqhr9mma.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "334758917957-6dcr40n6iv89kjqurjivetf7lkk3b281.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.allensolly.abfrl"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334758917957:android:58dd0f89b291df6605b02c",
+        "android_client_info": {
+          "package_name": "com.allensolly.abfrl.preprod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334758917957-jgo29naqn7mudlcf76etk9m0fn40t347.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.allensolly.abfrl.preprod",
+            "certificate_hash": "45ec606e4141bf7cea1c4ce82c8382a824ce9c04"
+          }
+        },
+        {
+          "client_id": "334758917957-nnri9li0i9aomaiddn4ipi7gvrs9llua.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.allensolly.abfrl.preprod",
+            "certificate_hash": "ab36830361b24ece88aa3c96ef65f3d91fc0bce3"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA74X65DXgTJF2hroMwTQjVajYOOufw8JA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334758917957-e6b386008b8c876npu2kl00cqqhr9mma.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "334758917957-6dcr40n6iv89kjqurjivetf7lkk3b281.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.allensolly.abfrl"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334758917957:android:9d45c2ba238c2c8605b02c",
+        "android_client_info": {
+          "package_name": "com.allensolly.abfrl.sit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334758917957-f6ghmtaggp0g0jgscgk0bqisu1r4gh6g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.allensolly.abfrl.sit",
+            "certificate_hash": "45ec606e4141bf7cea1c4ce82c8382a824ce9c04"
+          }
+        },
+        {
+          "client_id": "334758917957-haaqte3cf546jk4og3teorl6956bah99.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.allensolly.abfrl.sit",
+            "certificate_hash": "ab36830361b24ece88aa3c96ef65f3d91fc0bce3"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA74X65DXgTJF2hroMwTQjVajYOOufw8JA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334758917957-e6b386008b8c876npu2kl00cqqhr9mma.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "334758917957-6dcr40n6iv89kjqurjivetf7lkk3b281.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.allensolly.abfrl"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1 "
+}

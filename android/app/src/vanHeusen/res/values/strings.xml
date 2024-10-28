@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Van Heusen</string>
+    <string name="url_scheme" translatable="false">vanheusen</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyA1-SAbowjghjE6rIp0wGh7B8-CHlYWqiM</string>
+
+    <string name="CodePushDeploymentKeyDevelopment" moduleConfig="true">XgzWhbHpAjHS7XkjTh565sXblb7Q4ksvOXqog</string>
+    <string name="CodePushDeploymentKeyStaging" moduleConfig="true">jUgP5hiR0Oo9hfC0wePNzGzDpoTB4ksvOXqog</string>
+    <string name="CodePushDeploymentKeyProduction" moduleConfig="true">jCiisFjQlWDdWywgOOEPDEObXFVG4ksvOXqog</string>
+
+    <string name="clevertap_region" moduleConfig="true">in</string>
+    <string name="clevertap_account_id_test" moduleConfig="true">TEST-9RK-57W-K66Z</string>
+    <string name="clevertap_token_test" moduleConfig="true">TEST-0a5-32c</string>
+    <string name="clevertap_account_id_prod" moduleConfig="true">8RK-57W-K66Z</string>
+    <string name="clevertap_token_prod" moduleConfig="true">0a5-32b</string>
+</resources>

@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.peterengland.abfrl.sit",
+  "variantName": "peterEnglandSitRelease",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 128,
+      "versionName": "3.11",
+      "outputFile": "app-peterEngland-sit-release.apk"
+    }
+  ],
+  "elementType": "File"
+}

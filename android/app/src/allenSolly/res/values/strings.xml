@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Allen Solly</string>
+    <string name="url_scheme" translatable="false">allensolly</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyD3tamfIDucEKr-SW2rPACdyS68OAYQWH4</string>
+
+    <string name="CodePushDeploymentKeyDevelopment" moduleConfig="true">kII5P0kZUvfc7w5ms5ehgIBzxCeB4ksvOXqog</string>
+    <string name="CodePushDeploymentKeyStaging" moduleConfig="true">anKMmx8X6YXFPAxOnHLkiCQvD6ap4ksvOXqog</string>
+    <string name="CodePushDeploymentKeyProduction" moduleConfig="true">BkAcmevhmJF1wDpW0VLaTYRBmyJJ4ksvOXqog</string>
+
+    <string name="clevertap_region" moduleConfig="true">in</string>
+    <string name="clevertap_account_id_test" moduleConfig="true">TEST-754-57W-K66Z</string>
+    <string name="clevertap_token_test" moduleConfig="true">TEST-0a5-45a</string>
+    <string name="clevertap_account_id_prod" moduleConfig="true">654-57W-K66Z</string>
+    <string name="clevertap_token_prod" moduleConfig="true">0a5-456</string>
+</resources>

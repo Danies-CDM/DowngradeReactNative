@@ -1,0 +1,263 @@
+{
+  "project_info": {
+    "project_number": "893540662576",
+    "firebase_url": "https://americaneagle-c1afb.firebaseio.com",
+    "project_id": "americaneagle-c1afb",
+    "storage_bucket": "americaneagle-c1afb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893540662576:android:f002c80b4aded9863edcf5",
+        "android_client_info": {
+          "package_name": "com.americaneagle.abfrl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893540662576-ktbfn801eipjbhhq42rt6v569kcan6ag.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.americaneagle.abfrl",
+            "certificate_hash": "078da7ccf0dbf77f7a2b73df1591d09918b1d996"
+          }
+        },
+        {
+          "client_id": "893540662576-tle8fe7hk1755thtjk6nu9cfk81r0t9n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.americaneagle.abfrl",
+            "certificate_hash": "c00cd4900e5709ca48e307e55787e1d84ecb020c"
+          }
+        },
+        {
+          "client_id": "893540662576-9g0ephm926cg11tvaldaghjguf3n9ub9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7T1BPRvpVHciqCeq69SJYXvNuphEcuZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893540662576-9g0ephm926cg11tvaldaghjguf3n9ub9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "893540662576-14tjbn5chfm5ljslpn47cl85arkjqdqg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.americaneagle.abfrl"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893540662576:android:07d0840dd80521223edcf5",
+        "android_client_info": {
+          "package_name": "com.americaneagle.abfrl.beta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893540662576-lh3a5660qgq4529d5b7tra92og8ilnim.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.americaneagle.abfrl.beta",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "893540662576-9g0ephm926cg11tvaldaghjguf3n9ub9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7T1BPRvpVHciqCeq69SJYXvNuphEcuZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893540662576-9g0ephm926cg11tvaldaghjguf3n9ub9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "893540662576-14tjbn5chfm5ljslpn47cl85arkjqdqg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.americaneagle.abfrl"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893540662576:android:56bbe38df43f7f0b3edcf5",
+        "android_client_info": {
+          "package_name": "com.americaneagle.abfrl.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893540662576-8ganhmpfnvh5knqav1tf8kit119vcfos.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.americaneagle.abfrl.dev",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "893540662576-9hfcodfj9tdbpv2vkluud6jt71i1dj4a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.americaneagle.abfrl.dev",
+            "certificate_hash": "ab36830361b24ece88aa3c96ef65f3d91fc0bce3"
+          }
+        },
+        {
+          "client_id": "893540662576-9g0ephm926cg11tvaldaghjguf3n9ub9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7T1BPRvpVHciqCeq69SJYXvNuphEcuZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893540662576-9g0ephm926cg11tvaldaghjguf3n9ub9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "893540662576-14tjbn5chfm5ljslpn47cl85arkjqdqg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.americaneagle.abfrl"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893540662576:android:b531aed4281983f83edcf5",
+        "android_client_info": {
+          "package_name": "com.americaneagle.abfrl.preprod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893540662576-cgh0lsr4mnu821bobgcb9ccq3juciq2c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.americaneagle.abfrl.preprod",
+            "certificate_hash": "ab36830361b24ece88aa3c96ef65f3d91fc0bce3"
+          }
+        },
+        {
+          "client_id": "893540662576-h7p6i6dpmuoepje5lurfe1ucvig99s1m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.americaneagle.abfrl.preprod",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "893540662576-9g0ephm926cg11tvaldaghjguf3n9ub9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7T1BPRvpVHciqCeq69SJYXvNuphEcuZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893540662576-9g0ephm926cg11tvaldaghjguf3n9ub9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "893540662576-14tjbn5chfm5ljslpn47cl85arkjqdqg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.americaneagle.abfrl"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893540662576:android:a03ae99d37eecdfe3edcf5",
+        "android_client_info": {
+          "package_name": "com.americaneagle.abfrl.sit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893540662576-09tk25e50j9rggsvc0pcm5hrhdbu2f8k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.americaneagle.abfrl.sit",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "893540662576-9e30b29iqikvgm22lmjs9ejjot4da2p0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.americaneagle.abfrl.sit",
+            "certificate_hash": "ab36830361b24ece88aa3c96ef65f3d91fc0bce3"
+          }
+        },
+        {
+          "client_id": "893540662576-9g0ephm926cg11tvaldaghjguf3n9ub9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7T1BPRvpVHciqCeq69SJYXvNuphEcuZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893540662576-9g0ephm926cg11tvaldaghjguf3n9ub9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "893540662576-14tjbn5chfm5ljslpn47cl85arkjqdqg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.americaneagle.abfrl"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1 "
+}

@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.allensolly.abfrl.preprod",
+  "variantName": "allenSollyUatRelease",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 158,
+      "versionName": "3.22",
+      "outputFile": "app-allenSolly-uat-release.apk"
+    }
+  ],
+  "elementType": "File"
+}

@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.louisphilippe.abfrl",
+  "variantName": "louisPhilippeProdRelease",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 164,
+      "versionName": "3.25",
+      "outputFile": "app-louisPhilippe-prod-release.apk"
+    }
+  ],
+  "elementType": "File"
+}

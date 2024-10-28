@@ -1,0 +1,219 @@
+{
+  "project_info": {
+    "project_number": "931743718016",
+    "firebase_url": "https://forever21-568d7.firebaseio.com",
+    "project_id": "forever21-568d7",
+    "storage_bucket": "forever21-568d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931743718016:android:82372b202d9808dc03e465",
+        "android_client_info": {
+          "package_name": "com.forever21.abfrl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931743718016-fl96c6or8qvspmv92odjk3smfejeasav.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.forever21.abfrl",
+            "certificate_hash": "7f87b5c3692f71d7d02a4d956263d3a239c698bb"
+          }
+        },
+        {
+          "client_id": "931743718016-r4hcv4umnrlcd0df9e7rvl1chr5k28ls.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.forever21.abfrl",
+            "certificate_hash": "ab36830361b24ece88aa3c96ef65f3d91fc0bce3"
+          }
+        },
+        {
+          "client_id": "931743718016-s24eoj5een8fp20dbpbej2vu57tmtjhs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBtP1ch4TuLSXE6GAo6t0ji6wb21BtPWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931743718016-s24eoj5een8fp20dbpbej2vu57tmtjhs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "931743718016-1hjuf3g4b2jc8listbrf8s0rpj3m8hpg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.forever21.abfrl.dev"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931743718016:android:e16376f9657f3d9a03e465",
+        "android_client_info": {
+          "package_name": "com.forever21.abfrl.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931743718016-c18b3u1mk6uhn07ifladsb5ti6saqpfq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.forever21.abfrl.dev",
+            "certificate_hash": "ab36830361b24ece88aa3c96ef65f3d91fc0bce3"
+          }
+        },
+        {
+          "client_id": "931743718016-iuq629jh6ndl7tgbq0garlcir0nqfaln.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.forever21.abfrl.dev",
+            "certificate_hash": "7f87b5c3692f71d7d02a4d956263d3a239c698bb"
+          }
+        },
+        {
+          "client_id": "931743718016-s24eoj5een8fp20dbpbej2vu57tmtjhs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBtP1ch4TuLSXE6GAo6t0ji6wb21BtPWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931743718016-s24eoj5een8fp20dbpbej2vu57tmtjhs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "931743718016-1hjuf3g4b2jc8listbrf8s0rpj3m8hpg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.forever21.abfrl.dev"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931743718016:android:f38ef096b3608eea03e465",
+        "android_client_info": {
+          "package_name": "com.forever21.abfrl.preprod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931743718016-r6jaegpsljigal8c7dtp5srgda4su7dd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.forever21.abfrl.preprod",
+            "certificate_hash": "7f87b5c3692f71d7d02a4d956263d3a239c698bb"
+          }
+        },
+        {
+          "client_id": "931743718016-rmnd6bntt35iu3pcuseueb4t7qi58qb8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.forever21.abfrl.preprod",
+            "certificate_hash": "ab36830361b24ece88aa3c96ef65f3d91fc0bce3"
+          }
+        },
+        {
+          "client_id": "931743718016-s24eoj5een8fp20dbpbej2vu57tmtjhs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBtP1ch4TuLSXE6GAo6t0ji6wb21BtPWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931743718016-s24eoj5een8fp20dbpbej2vu57tmtjhs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "931743718016-1hjuf3g4b2jc8listbrf8s0rpj3m8hpg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.forever21.abfrl.dev"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931743718016:android:2513dc01a04690e103e465",
+        "android_client_info": {
+          "package_name": "com.forever21.abfrl.sit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931743718016-ff4lu81po1cvqmkknbsrmtnefq5eis6s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.forever21.abfrl.sit",
+            "certificate_hash": "ab36830361b24ece88aa3c96ef65f3d91fc0bce3"
+          }
+        },
+        {
+          "client_id": "931743718016-jnhp3qvrjdtkllgk9apmsrast1399f4n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.forever21.abfrl.sit",
+            "certificate_hash": "7f87b5c3692f71d7d02a4d956263d3a239c698bb"
+          }
+        },
+        {
+          "client_id": "931743718016-s24eoj5een8fp20dbpbej2vu57tmtjhs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBtP1ch4TuLSXE6GAo6t0ji6wb21BtPWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931743718016-s24eoj5een8fp20dbpbej2vu57tmtjhs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "931743718016-1hjuf3g4b2jc8listbrf8s0rpj3m8hpg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.forever21.abfrl.dev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

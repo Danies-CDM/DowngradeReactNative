@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.simoncarter.abfrl",
+  "variantName": "simonCarterProdRelease",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 157,
+      "versionName": "3.25",
+      "outputFile": "app-simonCarter-prod-release.apk"
+    }
+  ],
+  "elementType": "File"
+}

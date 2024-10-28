@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Peter England</string>
+    <string name="url_scheme" translatable="false">peterengland</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDRbEJDpSiaxwIo1shrTAUYqwWHwilRjLA</string>
+
+    <string name="CodePushDeploymentKeyDevelopment" moduleConfig="true">5j5G3sLqxKRDMUhpw92KjTgpvC624ksvOXqog</string>
+    <string name="CodePushDeploymentKeyStaging" moduleConfig="true">az3nmHNO7M2c7dJL2u8uN3VVSfaU4ksvOXqog</string>
+    <string name="CodePushDeploymentKeyProduction" moduleConfig="true">n7r0gYpQWnr5AlS2HDD8m0ueizCH4ksvOXqog</string>
+
+    <string name="clevertap_region" moduleConfig="true">in</string>
+    <string name="clevertap_account_id_test" moduleConfig="true">TEST-ZKK-57W-K66Z</string>
+    <string name="clevertap_token_test" moduleConfig="true">TEST-0a5-331</string>
+    <string name="clevertap_account_id_prod" moduleConfig="true">WKK-57W-K66Z</string>
+    <string name="clevertap_token_prod" moduleConfig="true">0a5-330</string>
+</resources>

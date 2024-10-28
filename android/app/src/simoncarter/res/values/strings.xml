@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Simon Carter</string>
+    <string name="url_scheme" translatable="false">simoncarter</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyA1-SAbowjghjE6rIp0wGh7B8-CHlYWqiM</string>
+
+    <string name="CodePushDeploymentKeyDevelopment" moduleConfig="true">40aaGZzdlYeWvG3zD516MnUJiVvE4ksvOXqog</string>
+    <string name="CodePushDeploymentKeyStaging" moduleConfig="true">EzXRntWDhHBCoTZGdWGy2iOab6ye4ksvOXqog</string>
+    <string name="CodePushDeploymentKeyProduction" moduleConfig="true">PkpqmxWOXPmnLSnrd6XywNjg2zf94ksvOXqog</string>
+
+    <string name="clevertap_region" moduleConfig="true">in</string>
+    <string name="clevertap_account_id_test" moduleConfig="true">TEST-Z65-497-596Z</string>
+    <string name="clevertap_token_test" moduleConfig="true">TEST-ac4-561</string>
+    <string name="clevertap_account_id_prod" moduleConfig="true">W65-497-596Z</string>
+    <string name="clevertap_token_prod" moduleConfig="true">ac4-560</string>
+
+    <!-- need to change prod details -->
+</resources>

@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.allensolly.abfrl",
+  "variantName": "allenSollyProdRelease",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 155,
+      "versionName": "3.25",
+      "outputFile": "app-allenSolly-prod-release.apk"
+    }
+  ],
+  "elementType": "File"
+}

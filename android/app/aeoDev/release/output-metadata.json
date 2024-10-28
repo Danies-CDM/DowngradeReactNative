@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.americaneagle.abfrl.dev",
+  "variantName": "aeoDevRelease",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 135,
+      "versionName": "3.12",
+      "outputFile": "app-aeo-dev-release.apk"
+    }
+  ],
+  "elementType": "File"
+}

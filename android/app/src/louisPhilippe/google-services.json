@@ -1,0 +1,295 @@
+{
+  "project_info": {
+    "project_number": "1005848642159",
+    "firebase_url": "https://louisphilippe-app.firebaseio.com",
+    "project_id": "louisphilippe-app",
+    "storage_bucket": "louisphilippe-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005848642159:android:06bc84755a7a6f60a4c39a",
+        "android_client_info": {
+          "package_name": "com.louisphilippe.abfrl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005848642159-4tr8aiab49vqa3cla6jlhf2earps0pn5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.louisphilippe.abfrl",
+            "certificate_hash": "af36e59025ce3314e10293c71f8c3708d013a1aa"
+          }
+        },
+        {
+          "client_id": "1005848642159-epts2s3c1kdjclc28n4p18ctr9kt7mro.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.louisphilippe.abfrl",
+            "certificate_hash": "a80bbccd55dd25ce98b6a10a523221f99eb121c2"
+          }
+        },
+        {
+          "client_id": "1005848642159-j710d1qkrkadper9u02geq3vjucpgopv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.louisphilippe.abfrl",
+            "certificate_hash": "ab36830361b24ece88aa3c96ef65f3d91fc0bce3"
+          }
+        },
+        {
+          "client_id": "1005848642159-ts0e4nn9i2bltqs34d88j7u8sv7602jh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.louisphilippe.abfrl",
+            "certificate_hash": "7753251696ad00d1f87012e10983560fc66d69eb"
+          }
+        },
+        {
+          "client_id": "1005848642159-i0jlrhe8sees1vk0mst8tj0p1fd9gqtn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC44td9UHJ_B__3MInudqaRh6d7-Ykp5co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005848642159-i0jlrhe8sees1vk0mst8tj0p1fd9gqtn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1005848642159-69rsj7b2icklr2mackc7hmoh42jq1oa3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.louisphilippe.abfrl.beta"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005848642159:android:3110cd3e7612f376a4c39a",
+        "android_client_info": {
+          "package_name": "com.louisphilippe.abfrl.beta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005848642159-jmtqlv6vpe94013qcu7og9ae9cal79ji.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.louisphilippe.abfrl.beta",
+            "certificate_hash": "eb5f098f132bce0ed94153454166d086b65e8f35"
+          }
+        },
+        {
+          "client_id": "1005848642159-jv3sb97ghp7dbfr4q1vkfdiflu0ous5n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.louisphilippe.abfrl.beta",
+            "certificate_hash": "a80bbccd55dd25ce98b6a10a523221f99eb121c2"
+          }
+        },
+        {
+          "client_id": "1005848642159-og8phcbkb7933aq52t3vs79pq1aqcall.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.louisphilippe.abfrl.beta",
+            "certificate_hash": "ab36830361b24ece88aa3c96ef65f3d91fc0bce3"
+          }
+        },
+        {
+          "client_id": "1005848642159-i0jlrhe8sees1vk0mst8tj0p1fd9gqtn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC44td9UHJ_B__3MInudqaRh6d7-Ykp5co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005848642159-i0jlrhe8sees1vk0mst8tj0p1fd9gqtn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1005848642159-69rsj7b2icklr2mackc7hmoh42jq1oa3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.louisphilippe.abfrl.beta"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005848642159:android:1a2079687d8ac1e2a4c39a",
+        "android_client_info": {
+          "package_name": "com.louisphilippe.abfrl.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005848642159-g3u91ujue6o1g5uculvnal4bd5mu9qgo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.louisphilippe.abfrl.dev",
+            "certificate_hash": "ab36830361b24ece88aa3c96ef65f3d91fc0bce3"
+          }
+        },
+        {
+          "client_id": "1005848642159-s8bplk0p3lj656o2bu1a95e5bm6vb3ai.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.louisphilippe.abfrl.dev",
+            "certificate_hash": "a80bbccd55dd25ce98b6a10a523221f99eb121c2"
+          }
+        },
+        {
+          "client_id": "1005848642159-i0jlrhe8sees1vk0mst8tj0p1fd9gqtn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC44td9UHJ_B__3MInudqaRh6d7-Ykp5co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005848642159-i0jlrhe8sees1vk0mst8tj0p1fd9gqtn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1005848642159-69rsj7b2icklr2mackc7hmoh42jq1oa3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.louisphilippe.abfrl.beta"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005848642159:android:352688ae2844c53da4c39a",
+        "android_client_info": {
+          "package_name": "com.louisphilippe.abfrl.preprod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005848642159-5h44640utpgnu65k0m5ni34evpkibgdq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.louisphilippe.abfrl.preprod",
+            "certificate_hash": "a80bbccd55dd25ce98b6a10a523221f99eb121c2"
+          }
+        },
+        {
+          "client_id": "1005848642159-s815cnstb8jat5id7d2c2sfbqqvmrqtv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.louisphilippe.abfrl.preprod",
+            "certificate_hash": "ab36830361b24ece88aa3c96ef65f3d91fc0bce3"
+          }
+        },
+        {
+          "client_id": "1005848642159-i0jlrhe8sees1vk0mst8tj0p1fd9gqtn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC44td9UHJ_B__3MInudqaRh6d7-Ykp5co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005848642159-i0jlrhe8sees1vk0mst8tj0p1fd9gqtn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1005848642159-69rsj7b2icklr2mackc7hmoh42jq1oa3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.louisphilippe.abfrl.beta"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005848642159:android:2c9246e99f5acc29a4c39a",
+        "android_client_info": {
+          "package_name": "com.louisphilippe.abfrl.sit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005848642159-fbptb9415a47d98b4iala7h80h70j346.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.louisphilippe.abfrl.sit",
+            "certificate_hash": "ab36830361b24ece88aa3c96ef65f3d91fc0bce3"
+          }
+        },
+        {
+          "client_id": "1005848642159-fruo2g5gp928na5ql1uoqv6ol8f4ee8v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.louisphilippe.abfrl.sit",
+            "certificate_hash": "a80bbccd55dd25ce98b6a10a523221f99eb121c2"
+          }
+        },
+        {
+          "client_id": "1005848642159-i0jlrhe8sees1vk0mst8tj0p1fd9gqtn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC44td9UHJ_B__3MInudqaRh6d7-Ykp5co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005848642159-i0jlrhe8sees1vk0mst8tj0p1fd9gqtn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1005848642159-69rsj7b2icklr2mackc7hmoh42jq1oa3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.louisphilippe.abfrl.beta"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1 "
+}

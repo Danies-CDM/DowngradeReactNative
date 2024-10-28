@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Forever 21</string>
+    <string name="url_scheme" translatable="false">forever21</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyA1-SAbowjghjE6rIp0wGh7B8-CHlYWqiM</string>
+
+    <string name="CodePushDeploymentKeyDevelopment" moduleConfig="true">6cwvrfx6qnW7SZNw06NFuPmkqBe74ksvOXqog</string>
+    <string name="CodePushDeploymentKeyStaging" moduleConfig="true">tHPBziMvbNnXrRTjZgxZg6LmkYE04ksvOXqog</string>
+    <string name="CodePushDeploymentKeyProduction" moduleConfig="true">wBJCkczVzPXqJV8Y7ZClZHMvjuX44ksvOXqog</string>
+
+    <string name="clevertap_region" moduleConfig="true">in</string>
+    <string name="clevertap_account_id_test" moduleConfig="true">TEST-KK4-497-596Z</string>
+    <string name="clevertap_token_test" moduleConfig="true">TEST-ac4-433</string>
+    <string name="clevertap_account_id_prod" moduleConfig="true">RK4-497-596Z</string>
+    <string name="clevertap_token_prod" moduleConfig="true">ac4-432</string>
+
+    <!-- need to change prod details -->
+</resources>
